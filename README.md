@@ -1,2 +1,2 @@
 # forkify-application
-a recipe getting and loading application
+a recipe for various meals getting and loading application
